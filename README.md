@@ -3,14 +3,17 @@
 ## 👋 Hi, I'm SeongBok Kang
 <Strong>📧Email📧</Strong><br>bubblewrap0713@gmail.com<br>
 
-
-1. Programming Languages
+## ⚒️Tech Stack⚒️
+<p display="inline-block">
+💡1. Programming Languages <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)]
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)]
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)]
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)]
+</p>
+
 2. Frontend Development
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)]
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)]
