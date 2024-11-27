@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:34D399,50:10B981,100:3B82F6&text=Welcome%20to%20Leo's%20github.&section=header&textBg=false&fontColor=ffffff&fontSize=32&fontAlign=50&animation=fadeIn&stroke=fffff&strokeWidth=1&fontAlignY=41)
 
 ## 👋 Hi, I'm SeongBok Kang
-<Strong>⭐ Portfolio</Strong> : <a href="portfolio.showboks.duckdns.org" style="border:1px solid red;">showboks</a><br>
+<Strong>⭐ Portfolio</Strong> : [![ShowBok's](https://img.shields.io/badge/ShowBok's-4CAF50?style=flat&logo=github&logoColor=white)](http://portfolio.showboks.duckdns.org)<br>
 <Strong>⭐ Email</Strong> : bubblewrap0713@gmail.com<br>
+
 
 ## ⚒️Tech Stack⚒️
 ## 1. Programming Languages 
