@@ -5,6 +5,7 @@
 <a href="https://portfolio.showboks.duckdns.org" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ShowBok's-4CAF50?style=flat&logo=github&logoColor=white" alt="ShowBok's">
 </a>
+<br>
 <Strong>⭐ Email</Strong> : bubblewrap0713@gmail.com<br>
 
 
