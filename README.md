@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm SeongBok Kang
 <Strong>⭐ Portfolio</Strong> : 
-<a href="http://portfolio.showboks.duckdns.org" target="_blank" rel="noopener noreferrer">
+<a href="https://portfolio.showboks.duckdns.org" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ShowBok's-4CAF50?style=flat&logo=github&logoColor=white" alt="ShowBok's">
 </a>
 <Strong>⭐ Email</Strong> : bubblewrap0713@gmail.com<br>
